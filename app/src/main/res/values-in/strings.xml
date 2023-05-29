@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Lecture Attendance</string>
+    <string name="email">Alamat Surel</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="forgot_password">Lupa Sandi</string>
+    <string name="history">Riwayat</string>
+    <string name="current_location">Lokasi saat ini</string>
+    <string name="default_text" translatable="false">-</string>
+    <string name="your_photo">foto</string>
+    <string name="check_in">Masuk</string>
+    <string name="check_out">Keluar</string>
+    <string name="profile">Profil</string>
+    <string name="change_password">Ganti Sandi</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="logout">keluar</string>
+    <string name="new_password">Sandi Baru</string>
+    <string name="old_password">Sandi Lama</string>
+    <string name="confirm_new_password">Konfirmasi Sandi Baru</string>
+    <string name="attendance">Absen</string>
+    <string name="please_field_your_email">Mohon masukkan alamat surel kamu</string>
+    <string name="please_use_valid_email">Mohon gunakan alamt surel yang benar</string>
+    <string name="please_field_your_password">Mohon masukkan kata sandi kamu</string>
+    <string name="failed">Gagal</string>
+    <string name="success">Sukses</string>
+    <string name="not_granted">Tidak disetujui</string>
+    <string name="required_permissiom">Membutuhkan Permisi</string>
+    <string name="search_your_location">Mencari Lokasi ..</string>
+    <string name="failed_to_capture_image">Gagal mengambil gambar</string>
+    <string name="alert">Peringatan</string>
+    <string name="please_take_your_photo">"Mohon ambil foto kamu"</string>
+    <string name="are_you_sure">Apakah kamu yakin?</string>
+    <string name="yes">Iya</string>
+    <string name="no">Tidak</string>
+    <string name="success_check_in">Sukses Masuk</string>
+    <string name="success_check_out">Sukses Keluar</string>
+    <string name="something_wrong">Ada yang salah</string>
+    <string name="your_already_present">Kamu Sudah Absen</string>
+</resources>
